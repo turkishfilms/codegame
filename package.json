@@ -1,0 +1,16 @@
+{
+  "name": "codegame",
+  "version": "1.0.0",
+  "description": "code game duh",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "game",
+    "html"
+  ],
+  "author": "dede robinson",
+  "license": "ISC"
+}
